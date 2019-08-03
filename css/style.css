@@ -1,14 +1,14 @@
 *{
     font-family: 'Lacquer', sans-serif;
+    margin: 0px;
 }
 
 body{
     background-color: bisque;
     background-image: url("/img/bartos.jpg");
     background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-    margin: 0;
+    background-position-x: center;
+    background-position-y: top;
 }
 
 .buttons{
