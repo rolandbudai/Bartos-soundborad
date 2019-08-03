@@ -5,7 +5,7 @@
 
 body{
     background-color: bisque;
-    background-image: url("/img/bartos.jpg");
+    background-image: url("img/bartos.jpg");
     background-repeat: no-repeat;
     background-position-x: center;
     background-position-y: top;
