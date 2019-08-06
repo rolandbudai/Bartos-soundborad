@@ -45,6 +45,6 @@ header{
     }
 
     .buttons button {
-        width: 20%;
+        width: auto;
         }
     }
