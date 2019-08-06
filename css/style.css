@@ -24,7 +24,7 @@ header{
 
 .buttons button {
     margin: 10px;
-    width: 30%;
+    width: auto;
     height: 40px;
     border-radius: 25px;
     background-color: rgba(176, 190, 109, 0.6);
